@@ -12,3 +12,10 @@ Funcionalidades
 Tecnologias
 🐍 Python (puro ou com bibliotecas como argparse para CLI)
 📊 Possível integração com planilhas Excel/Google Sheets (via pandas ou gspread)
+
+Roadmap
+🔹 Interface gráfica (Tkinter ou PyQt)
+🔹 Suporte a múltiplos materiais (PLA, ABS, PETG)
+🔹 Cálculo de margem de lucro para serviços de impressão
+
+📥 Contribuições são bem-vindas! Issues, PRs e ideias para novos recursos.
