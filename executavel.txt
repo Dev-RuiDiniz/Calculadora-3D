@@ -1,0 +1,6 @@
+pyinstaller --onefile --windowed main.py
+
+pyinstaller --onefile --windowed --add-data "fundo.png;." --add-data "logo.png;." --add-data "icone.ico;." main.py
+
+
+pyinstaller --onefile --windowed --add-data "fundo.png;." --add-data "logo.png;." main.py

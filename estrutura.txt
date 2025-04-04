@@ -1,0 +1,23 @@
+/calculadora-3d  
+│  
+├── /core  
+│   ├── __init__.py  
+│   ├── calculos.py           # Lógica de cálculo (movida do seu código original)  
+│   ├── auth.py               # Autenticação (senha)  
+│   └── orcamento.py          # Classe/funções de orçamento  
+│  
+├── /ui  
+│   ├── __init__.py  
+│   ├── login_window.py       # Janela de login  
+│   └── main_window.py        # Janela principal (GUI)  
+│  
+├── /assets                  # Pasta para imagens  
+│   ├── fundo.png  
+│   └── logo.png  
+│  
+├── /utils  
+│   ├── __init__.py  
+│   └── resource_path.py      # Função para caminhos de recursos  
+│  
+├── app.py                   # Ponto de entrada principal  
+└── README.md  
